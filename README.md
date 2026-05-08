@@ -56,20 +56,6 @@ Calculadora-Presupuesto/
 └── README.md
 ```
 
----
-
-## Cómo correr localmente
-
-```bash
-git clone https://github.com/GastonGarcia1295/Calculadora-Presupuesto.git
-cd Calculadora-Presupuesto
-# Abrí index.html en tu navegador
-```
-
-No requiere instalación ni servidor local.
-
----
-
 ## Autor
 
 **Gastón García** — Desarrollador Web  
